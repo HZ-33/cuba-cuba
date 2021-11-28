@@ -1,5 +1,5 @@
 /*
-Support channel ZEEONE OFC
+Support ALPHABOT OFC
 
 
 Yang jual sc ini anak haram
