@@ -1,5 +1,5 @@
-
-let { WAConnection, MessageType, Mimetype} = require('@adiwajshing/baileys')
+const jadibut = () =>{
+return let { WAConnection, MessageType, Mimetype} = require('@adiwajshing/baileys')
 let qrcode = require('qrcode')
 const fs = require('fs')
 
